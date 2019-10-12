@@ -1,0 +1,19 @@
+c:\users\vlad\source\repos\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\bin\Debug\Prelucrarea Imaginilor Lab1.exe.config
+c:\users\vlad\source\repos\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\bin\Debug\Prelucrarea Imaginilor Lab1.exe
+c:\users\vlad\source\repos\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\bin\Debug\Prelucrarea Imaginilor Lab1.pdb
+c:\users\vlad\source\repos\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\obj\Debug\Prelucrarea Imaginilor Lab1.csprojResolveAssemblyReference.cache
+c:\users\vlad\source\repos\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\obj\Debug\Prelucrarea_Imaginilor_Lab1.Properties.Resources.resources
+c:\users\vlad\source\repos\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\obj\Debug\Prelucrarea Imaginilor Lab1.csproj.GenerateResource.cache
+c:\users\vlad\source\repos\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\obj\Debug\Prelucrarea Imaginilor Lab1.csproj.CoreCompileInputs.cache
+c:\users\vlad\source\repos\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\obj\Debug\Prelucrarea Imaginilor Lab1.exe
+c:\users\vlad\source\repos\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\obj\Debug\Prelucrarea Imaginilor Lab1.pdb
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\bin\Debug\Prelucrarea Imaginilor Lab1.exe.config
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\bin\Debug\Prelucrarea Imaginilor Lab1.exe
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\bin\Debug\Prelucrarea Imaginilor Lab1.pdb
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\obj\Debug\Prelucrarea Imaginilor Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\obj\Debug\Prelucrarea_Imaginilor_Lab1.Form1.resources
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\obj\Debug\Prelucrarea_Imaginilor_Lab1.Properties.Resources.resources
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\obj\Debug\Prelucrarea Imaginilor Lab1.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\obj\Debug\Prelucrarea Imaginilor Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\obj\Debug\Prelucrarea Imaginilor Lab1.exe
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Prelucrarea Imaginilor Lab1\Prelucrarea Imaginilor Lab1\obj\Debug\Prelucrarea Imaginilor Lab1.pdb

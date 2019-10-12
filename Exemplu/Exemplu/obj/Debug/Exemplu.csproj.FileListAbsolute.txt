@@ -1,0 +1,17 @@
+C:\Users\Perfi\Per\Doc\Prel_Img\Prel Imag 2013\Exemplu\Exemplu\bin\Debug\Exemplu.exe
+C:\Users\Perfi\Per\Doc\Prel_Img\Prel Imag 2013\Exemplu\Exemplu\bin\Debug\Exemplu.pdb
+C:\Users\Perfi\Per\Doc\Prel_Img\Prel Imag 2013\Exemplu\Exemplu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Perfi\Per\Doc\Prel_Img\Prel Imag 2013\Exemplu\Exemplu\obj\Debug\Exemplu.Exemplu.resources
+C:\Users\Perfi\Per\Doc\Prel_Img\Prel Imag 2013\Exemplu\Exemplu\obj\Debug\Exemplu.Properties.Resources.resources
+C:\Users\Perfi\Per\Doc\Prel_Img\Prel Imag 2013\Exemplu\Exemplu\obj\Debug\Exemplu.csproj.GenerateResource.Cache
+C:\Users\Perfi\Per\Doc\Prel_Img\Prel Imag 2013\Exemplu\Exemplu\obj\Debug\Exemplu.exe
+C:\Users\Perfi\Per\Doc\Prel_Img\Prel Imag 2013\Exemplu\Exemplu\obj\Debug\Exemplu.pdb
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Exemplu\Exemplu\bin\Debug\Exemplu.exe
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Exemplu\Exemplu\bin\Debug\Exemplu.pdb
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Exemplu\Exemplu\obj\Debug\Exemplu.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Exemplu\Exemplu\obj\Debug\Exemplu.Exemplu.resources
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Exemplu\Exemplu\obj\Debug\Exemplu.Properties.Resources.resources
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Exemplu\Exemplu\obj\Debug\Exemplu.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Exemplu\Exemplu\obj\Debug\Exemplu.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Exemplu\Exemplu\obj\Debug\Exemplu.exe
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Exemplu\Exemplu\obj\Debug\Exemplu.pdb
