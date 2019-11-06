@@ -80,27 +80,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\neonbrand-60krlMMeWxU-unsplash.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\aj-yorio-oAPv2AoMmCU-unsplash.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\joanes-andueza-F49x0Vct5Lo-unsplash.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\laura-dewilde-MTSq-eEqPmU-unsplash.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\maxim-selyuk--flQuOWF18Y-unsplash.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\neonbrand-60krlMMeWxU-unsplash1.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\neonbrand-tKvp2XBx4NE-unsplash.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\237-600x800.jpg" />
   </ItemGroup>
   <ItemGroup>

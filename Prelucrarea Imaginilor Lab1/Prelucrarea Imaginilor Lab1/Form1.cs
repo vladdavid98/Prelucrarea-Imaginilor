@@ -79,6 +79,20 @@ namespace Prelucrarea_Imaginilor_Lab1
             pictureBox2.Image = Im2; pictureBox2.Refresh();
         }
 
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void swapToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            pictureBox1.Image = Im2; pictureBox1.Refresh();
+            pictureBox2.Image = Im1; pictureBox2.Refresh();
+
+            Im1 = new Bitmap(pictureBox1.Image);
+            Im2 = new Bitmap(pictureBox2.Image);
+        }
+
         private void Form1_Load(object sender, EventArgs e)
         {
             
