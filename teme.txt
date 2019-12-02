@@ -3,3 +3,5 @@ g
 a
 
 a3 b f
+
+contur schelet subtiere
