@@ -45,14 +45,15 @@ namespace Prelucrarea_Imaginilor_Lab2
             this.compressionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.accentuationToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reductionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
-            this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             this.medianFiltrationToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.countourAccentuationToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.biomedicalImageImprovementToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.lAPLACIANToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sOBELVERTICALToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.kIRSCHHORIZOLNTALToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
+            this.blackAndWhiteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.menuStrip1.SuspendLayout();
@@ -102,14 +103,14 @@ namespace Prelucrarea_Imaginilor_Lab2
             // openToolStripMenuItem
             // 
             this.openToolStripMenuItem.Name = "openToolStripMenuItem";
-            this.openToolStripMenuItem.Size = new System.Drawing.Size(103, 22);
+            this.openToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.openToolStripMenuItem.Text = "Open";
             this.openToolStripMenuItem.Click += new System.EventHandler(this.openToolStripMenuItem_Click);
             // 
             // saveToolStripMenuItem
             // 
             this.saveToolStripMenuItem.Name = "saveToolStripMenuItem";
-            this.saveToolStripMenuItem.Size = new System.Drawing.Size(103, 22);
+            this.saveToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.saveToolStripMenuItem.Text = "Save";
             this.saveToolStripMenuItem.Click += new System.EventHandler(this.saveToolStripMenuItem_Click);
             // 
@@ -117,6 +118,7 @@ namespace Prelucrarea_Imaginilor_Lab2
             // 
             this.editToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.swapToolStripMenuItem,
+            this.blackAndWhiteToolStripMenuItem,
             this.grayscaleToolStripMenuItem,
             this.negativeToolStripMenuItem,
             this.contrastCompressionToolStripMenuItem,
@@ -130,21 +132,21 @@ namespace Prelucrarea_Imaginilor_Lab2
             // swapToolStripMenuItem
             // 
             this.swapToolStripMenuItem.Name = "swapToolStripMenuItem";
-            this.swapToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.swapToolStripMenuItem.Size = new System.Drawing.Size(244, 22);
             this.swapToolStripMenuItem.Text = "Swap";
             this.swapToolStripMenuItem.Click += new System.EventHandler(this.swapToolStripMenuItem_Click);
             // 
             // grayscaleToolStripMenuItem
             // 
             this.grayscaleToolStripMenuItem.Name = "grayscaleToolStripMenuItem";
-            this.grayscaleToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.grayscaleToolStripMenuItem.Size = new System.Drawing.Size(244, 22);
             this.grayscaleToolStripMenuItem.Text = "Grayscale";
             this.grayscaleToolStripMenuItem.Click += new System.EventHandler(this.grayscaleToolStripMenuItem_Click);
             // 
             // negativeToolStripMenuItem
             // 
             this.negativeToolStripMenuItem.Name = "negativeToolStripMenuItem";
-            this.negativeToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.negativeToolStripMenuItem.Size = new System.Drawing.Size(244, 22);
             this.negativeToolStripMenuItem.Text = "Negative";
             this.negativeToolStripMenuItem.Click += new System.EventHandler(this.negativeToolStripMenuItem_Click);
             // 
@@ -180,26 +182,17 @@ namespace Prelucrarea_Imaginilor_Lab2
             this.reductionToolStripMenuItem.Text = "Reduction";
             this.reductionToolStripMenuItem.Click += new System.EventHandler(this.reductionToolStripMenuItem_Click);
             // 
-            // openFileDialog1
-            // 
-            this.openFileDialog1.FileName = "openFileDialog1";
-            this.openFileDialog1.FileOk += new System.ComponentModel.CancelEventHandler(this.openFileDialog1_FileOk);
-            // 
-            // saveFileDialog1
-            // 
-            this.saveFileDialog1.FileOk += new System.ComponentModel.CancelEventHandler(this.saveFileDialog1_FileOk);
-            // 
             // medianFiltrationToolStripMenuItem
             // 
             this.medianFiltrationToolStripMenuItem.Name = "medianFiltrationToolStripMenuItem";
-            this.medianFiltrationToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.medianFiltrationToolStripMenuItem.Size = new System.Drawing.Size(244, 22);
             this.medianFiltrationToolStripMenuItem.Text = "Median Filtration";
             this.medianFiltrationToolStripMenuItem.Click += new System.EventHandler(this.medianFiltrationToolStripMenuItem_Click);
             // 
             // countourAccentuationToolStripMenuItem
             // 
             this.countourAccentuationToolStripMenuItem.Name = "countourAccentuationToolStripMenuItem";
-            this.countourAccentuationToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
+            this.countourAccentuationToolStripMenuItem.Size = new System.Drawing.Size(244, 22);
             this.countourAccentuationToolStripMenuItem.Text = "Countour Accentuation";
             this.countourAccentuationToolStripMenuItem.Click += new System.EventHandler(this.countourAccentuationToolStripMenuItem_Click);
             // 
@@ -217,23 +210,39 @@ namespace Prelucrarea_Imaginilor_Lab2
             // lAPLACIANToolStripMenuItem
             // 
             this.lAPLACIANToolStripMenuItem.Name = "lAPLACIANToolStripMenuItem";
-            this.lAPLACIANToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.lAPLACIANToolStripMenuItem.Size = new System.Drawing.Size(189, 22);
             this.lAPLACIANToolStripMenuItem.Text = "LAPLACIAN";
             this.lAPLACIANToolStripMenuItem.Click += new System.EventHandler(this.lAPLACIANToolStripMenuItem_Click);
             // 
             // sOBELVERTICALToolStripMenuItem
             // 
             this.sOBELVERTICALToolStripMenuItem.Name = "sOBELVERTICALToolStripMenuItem";
-            this.sOBELVERTICALToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.sOBELVERTICALToolStripMenuItem.Size = new System.Drawing.Size(189, 22);
             this.sOBELVERTICALToolStripMenuItem.Text = "SOBEL VERTICAL";
             this.sOBELVERTICALToolStripMenuItem.Click += new System.EventHandler(this.sOBELVERTICALToolStripMenuItem_Click);
             // 
             // kIRSCHHORIZOLNTALToolStripMenuItem
             // 
-            this.kIRSCHHORIZOLNTALToolStripMenuItem.Name = "kIRSCHHORIZONTALToolStripMenuItem";
-            this.kIRSCHHORIZOLNTALToolStripMenuItem.Size = new System.Drawing.Size(196, 22);
+            this.kIRSCHHORIZOLNTALToolStripMenuItem.Name = "kIRSCHHORIZOLNTALToolStripMenuItem";
+            this.kIRSCHHORIZOLNTALToolStripMenuItem.Size = new System.Drawing.Size(189, 22);
             this.kIRSCHHORIZOLNTALToolStripMenuItem.Text = "KIRSCH HORIZONTAL";
             this.kIRSCHHORIZOLNTALToolStripMenuItem.Click += new System.EventHandler(this.kIRSCHHORIZONTALToolStripMenuItem_Click);
+            // 
+            // openFileDialog1
+            // 
+            this.openFileDialog1.FileName = "openFileDialog1";
+            this.openFileDialog1.FileOk += new System.ComponentModel.CancelEventHandler(this.openFileDialog1_FileOk);
+            // 
+            // saveFileDialog1
+            // 
+            this.saveFileDialog1.FileOk += new System.ComponentModel.CancelEventHandler(this.saveFileDialog1_FileOk);
+            // 
+            // blackAndWhiteToolStripMenuItem
+            // 
+            this.blackAndWhiteToolStripMenuItem.Name = "blackAndWhiteToolStripMenuItem";
+            this.blackAndWhiteToolStripMenuItem.Size = new System.Drawing.Size(244, 22);
+            this.blackAndWhiteToolStripMenuItem.Text = "Black and White";
+            this.blackAndWhiteToolStripMenuItem.Click += new System.EventHandler(this.blackAndWhiteToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -280,6 +289,7 @@ namespace Prelucrarea_Imaginilor_Lab2
         private System.Windows.Forms.ToolStripMenuItem lAPLACIANToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem sOBELVERTICALToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem kIRSCHHORIZOLNTALToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem blackAndWhiteToolStripMenuItem;
     }
 }
 

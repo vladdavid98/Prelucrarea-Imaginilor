@@ -1,0 +1,9 @@
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Project\Automatic Image Enhancement\bin\Debug\Automatic Image Enhancement.exe.config
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Project\Automatic Image Enhancement\bin\Debug\Automatic Image Enhancement.exe
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Project\Automatic Image Enhancement\bin\Debug\Automatic Image Enhancement.pdb
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Project\Automatic Image Enhancement\obj\Debug\Automatic Image Enhancement.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Project\Automatic Image Enhancement\obj\Debug\Automatic_Image_Enhancement.Properties.Resources.resources
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Project\Automatic Image Enhancement\obj\Debug\Automatic Image Enhancement.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Project\Automatic Image Enhancement\obj\Debug\Automatic Image Enhancement.exe
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Project\Automatic Image Enhancement\obj\Debug\Automatic Image Enhancement.pdb
+C:\Users\Vlad\Desktop\Prelucrarea-Imaginilor\Project\Automatic Image Enhancement\obj\Debug\Automatic_Image_Enhancement.Form1.resources
