@@ -18,7 +18,7 @@
                 components.Dispose();
             }
 
-            base.Dispose (disposing );
+            base.Dispose(disposing);
         }
 
         private System.Windows.Forms.PictureBox pictureBox1;
